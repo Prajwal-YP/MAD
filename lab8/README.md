@@ -12,11 +12,15 @@
 ### 2)
 
 | ![dialAppTyped image](https://github.com/Prajwal-YP/imageCache/blob/main/lab8b.png) | 
+---
 |:--:| 
+---
 | *Dial App MainTyped Page* |
+---
 | *Typed Some Random Number. (NOTE : This is invalid number)* |
 ---
 
+---
 
 ### 3)
 
@@ -28,7 +32,7 @@
 ---
 
 
-### 1)
+### 4)
 
 | ![dialAppSave image](https://github.com/Prajwal-YP/imageCache/blob/main/lab8d.png) | 
 |:--:| 
