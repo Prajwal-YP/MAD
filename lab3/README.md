@@ -20,6 +20,14 @@
 
 | ![login image](https://github.com/Prajwal-YP/imageCache/blob/main/lab3c.png) | 
 |:--:| 
-| *Log In Ateempts Exhausted Page* |
+| *Log In Attempts Exhausted Page* |
+
+---
+
+### 4)
+
+| ![mainPage image](https://github.com/Prajwal-YP/imageCache/blob/main/labd.png) | 
+|:--:| 
+| *Main Page* |
 
 ---
