@@ -29,5 +29,3 @@
 | ![mainPage image](https://github.com/Prajwal-YP/imageCache/blob/main/labd.png) | 
 |:--:| 
 | *Main Page* |
-
---
