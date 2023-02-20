@@ -1,5 +1,4 @@
 # Calculator :
 
-<p align="center">
-  <img width="350" src="https://github.com/Prajwal-YP/imageCache/blob/main/lab2.png" alt="Calculator"
-</p>
+| ![lab2](https://user-images.githubusercontent.com/87578946/220101024-1f5411e1-45bf-42bf-bb2d-cd3bd0cb4d94.png) |
+| :-: |
